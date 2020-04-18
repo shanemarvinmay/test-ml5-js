@@ -1,0 +1,29 @@
+{
+  "name": "test-ml5",
+  "version": "1.0.0",
+  "description": "change later",
+  "main": "script.js",
+  "scripts": {
+    "test": "change later"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanemarvinmay/test-ml5-js.git"
+  },
+  "keywords": [
+    "change",
+    "later"
+  ],
+  "author": "shanemarvinmay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanemarvinmay/test-ml5-js/issues"
+  },
+  "homepage": "https://github.com/shanemarvinmay/test-ml5-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expresss": "0.0.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
